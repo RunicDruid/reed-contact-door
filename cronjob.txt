@@ -1,0 +1,1 @@
+@reboot sleep 60 && /usr/bin/python /home/user/development/raspberry-pi/pidoor/door.py
